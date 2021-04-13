@@ -66,3 +66,11 @@ In portfilio 2.0 you will be able to change the color of the page bu clicking
  
  ## Sitemap
 
+<img src="images/site map.jpg"
+     alt="resume"
+     style="float: left; margin-right: 10px;" />
+
+## Tech Stack 
+
+<p>&nbsp;</p> 
+Mostly HTML and CSS but in portfilio 2.0 will be using Javascript 
