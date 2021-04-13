@@ -1,0 +1,28 @@
+:root{
+    --mainColor: #914d9f;
+    --secondaryColor: rgb(111, 23, 187);
+
+    --borderColor:#c1c1c1; 
+    
+    --mainText:rgba(61, 16, 164, 0.858);
+    --secondaryText: #144f80;
+}
+
+html, body{
+    padding: 0;
+    margin: 0;
+}
+
+h1, h2, h3, h4, h5, h6, strong{
+    color: var(--mainText); 
+}
+
+p, li, span, label, input, textarea{
+    color: var(--mainText);
+
+}
+
+.s1{
+    background-color: var(--mainColor);
+    border-bottom: 1px solid var(--borderColor)
+}
