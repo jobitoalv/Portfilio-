@@ -1,3 +1,15 @@
+commit 22ff4ddb17e998f5e1a73f7ab8d163d59a891bce
+Author: jobitoalv <74395645+jobitoalv@users.noreply.github.com>
+Date:   Wed Apr 14 14:40:37 2021 +1000
+
+    added blog dates
+
+commit cfd359057338e26feb50a6594d66f3af34cb2270
+Author: jobitoalv <74395645+jobitoalv@users.noreply.github.com>
+Date:   Wed Apr 14 12:58:38 2021 +1000
+
+    changes to css about me
+
 commit 0ecedd51607ddf1e096bf7590d56314ae86aacf4
 Author: jobitoalv <74395645+jobitoalv@users.noreply.github.com>
 Date:   Wed Apr 14 11:00:57 2021 +1000
