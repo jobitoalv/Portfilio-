@@ -336,7 +336,7 @@ h6 { font-size: 10px;}
 
 .blogs-wrapper{
     display: grid;
-    grid-template-columns: repeat(auto-fit, 400px) ;
+    grid-template-columns:repeat(auto-fit, 500px) ;
     gap: 20px;
     justify-content: center;
     padding-bottom: 100px;  
@@ -346,6 +346,11 @@ h6 { font-size: 10px;}
     color: Black;
     margin: 0px;
     
+}
+
+.blogs-preview{
+    background-color:  #fff;
+    padding: 15px;
 }
 
 .blogs-intro{

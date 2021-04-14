@@ -1,3 +1,21 @@
+commit 798cd96364efdff68aa2486e79703cbc82fdf000
+Author: jobitoalv <74395645+jobitoalv@users.noreply.github.com>
+Date:   Tue Apr 13 16:32:42 2021 +1000
+
+     added integrity
+
+commit cb2ac4c6ecbffe13d7c411cfaba9cc5e277a8fe6
+Author: jobitoalv <74395645+jobitoalv@users.noreply.github.com>
+Date:   Tue Apr 13 16:23:19 2021 +1000
+
+     added sitemap on read me
+
+commit 663e227a9d56287238360d80d7e943631c3a300f
+Author: jobitoalv <74395645+jobitoalv@users.noreply.github.com>
+Date:   Tue Apr 13 15:52:33 2021 +1000
+
+     added SRI
+
 commit 18ab457bcd9139b430d27ea86c4aa416835eb79c
 Author: jobitoalv <74395645+jobitoalv@users.noreply.github.com>
 Date:   Tue Apr 13 15:30:32 2021 +1000
