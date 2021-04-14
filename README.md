@@ -73,4 +73,4 @@ In portfilio 2.0 you will be able to change the color of the page bu clicking
 ## Tech Stack 
 
 <p>&nbsp;</p> 
-Mostly HTML and CSS but in portfilio 2.0 will be using Javascript 
+CSS , FLEXBOX , FORM , LABEL , HTML 
