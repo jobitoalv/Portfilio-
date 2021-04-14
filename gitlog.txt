@@ -1,3 +1,15 @@
+commit 0ecedd51607ddf1e096bf7590d56314ae86aacf4
+Author: jobitoalv <74395645+jobitoalv@users.noreply.github.com>
+Date:   Wed Apr 14 11:00:57 2021 +1000
+
+    moving post around
+
+commit 8dbbbd8ac4156f8dce3fd840e6cc64ca02bc29c6
+Author: jobitoalv <74395645+jobitoalv@users.noreply.github.com>
+Date:   Wed Apr 14 10:49:56 2021 +1000
+
+    changed wrapping on blogs
+
 commit 798cd96364efdff68aa2486e79703cbc82fdf000
 Author: jobitoalv <74395645+jobitoalv@users.noreply.github.com>
 Date:   Tue Apr 13 16:32:42 2021 +1000
