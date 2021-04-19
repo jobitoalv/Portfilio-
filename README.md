@@ -16,6 +16,13 @@ You can Download my Resume from the link shown below
 <img src="images/Screen Shot 2021-04-19 at 5.29.46 pm.png"
      alt="resume"
      style="float: left; margin-right: 10px;" />
+<p>&nbsp;</p>
+
+Whenever your on a page the page tap will stay highlighted 
+<p>&nbsp;</p>
+
+All Read more and Download links hover when your mouse is touching it .
+
 
 
 

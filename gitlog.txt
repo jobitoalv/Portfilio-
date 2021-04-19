@@ -1,3 +1,21 @@
+commit bb3b85d5037107a0fe01c6095f4202eaf4e59ac7
+Author: jobitoalv <74395645+jobitoalv@users.noreply.github.com>
+Date:   Mon Apr 19 19:39:55 2021 +1000
+
+     hover added for nav tap
+
+commit 4678f0859ec4d824db3a725aa3b680c13bc87d00
+Author: jobitoalv <74395645+jobitoalv@users.noreply.github.com>
+Date:   Mon Apr 19 19:35:36 2021 +1000
+
+     added hover to all real more links
+
+commit 32bed156aaa87085923d5a461f125133a887dce1
+Author: jobitoalv <74395645+jobitoalv@users.noreply.github.com>
+Date:   Mon Apr 19 19:31:18 2021 +1000
+
+     hover for social links
+
 commit eb71912e6025ab838683ccc2116650cfc00534ba
 Author: jobitoalv <74395645+jobitoalv@users.noreply.github.com>
 Date:   Mon Apr 19 19:24:41 2021 +1000
