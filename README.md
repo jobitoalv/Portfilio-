@@ -13,32 +13,21 @@ easy to navigate being able to check my past project and learn more about me . e
 ## Features 
 <p>&nbsp;</p>
 You can Download my Resume from the link shown below 
-<img src="images/Screen Shot 2021-04-13 at 11.32.44 am.png"
+<img src="images/Screen Shot 2021-04-19 at 5.29.46 pm.png"
      alt="resume"
      style="float: left; margin-right: 10px;" />
 
-<p>&nbsp;</p>
-You can also link to my main Blogs and Past Project in the future,by clicking the read more tap.
-
-<img src="images/Screen Shot 2021-04-13 at 2.00.57 pm.png">
 
 
 <p>&nbsp;</p>
 
 ## Functionality 
 
-Easy to open a new tap and just one page simple to Contact me page 
+Easy to open a new tap and just one page simple to Contact me page and to download my resume
 
-<img src="images/Screen Shot 2021-04-13 at 2.13.32 pm.png"
-     alt="resume"
-     style="float: left; margin-right: 10px;" />
-<p>&nbsp;</p>
 
-In portfilio 2.0 you will be able to change the color of the page bu clicking 
 
-<img src="images/Screen Shot 2021-04-13 at 2.16.16 pm.png"
-     alt="resume"
-     style="float: left; margin-right: 10px;" />
+
 
 <p>&nbsp;</p>
 
@@ -50,13 +39,28 @@ In portfilio 2.0 you will be able to change the color of the page bu clicking
 
 ## Screenshots
 
-<img src="images/Screen Shot 2021-04-19 at 12.06.11 pm.png">
+<img src="images/Screen Shot 2021-04-19 at 1.38.21 pm.png">
 
 <p>&nbsp;</p>
-<img src="images/Screen Shot 2021-04-13 at 11.32.44 am.png">
+<img src="images/Screen Shot 2021-04-19 at 5.14.50 pm.png">
      
 <p>&nbsp;</p>
-<img src="images/Screen Shot 2021-04-13 at 2.23.07 pm.png">
+<img src="images/Screen Shot 2021-04-19 at 5.15.13 pm.png">
+
+<p>&nbsp;</p>
+<img src="images/Screen Shot 2021-04-19 at 5.15.45 pm.png">
+
+<p>&nbsp;</p>
+<img src="images/Screen Shot 2021-04-19 at 5.16.06 pm.png">
+
+<p>&nbsp;</p>
+<img src="images/Screen Shot 2021-04-19 at 5.16.30 pm.png">
+
+<p>&nbsp;</p>
+<img src="images/Screen Shot 2021-04-19 at 5.16.51 pm.png">
+
+<p>&nbsp;</p>
+<img src="images/Screen Shot 2021-04-19 at 5.18.09 pm.png">
      
 <p>&nbsp;</p>
  
