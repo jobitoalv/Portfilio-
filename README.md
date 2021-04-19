@@ -20,9 +20,8 @@ You can Download my Resume from the link shown below
 <p>&nbsp;</p>
 You can also link to my main Blogs and Past Project in the future,by clicking the read more tap.
 
-<img src="images/Screen Shot 2021-04-13 at 2.00.57 pm.png"
-     alt="past project"
-     style="float: left; margin-right: 10px;" />
+<img src="images/Screen Shot 2021-04-13 at 2.00.57 pm.png">
+
 
 <p>&nbsp;</p>
 
@@ -51,17 +50,14 @@ In portfilio 2.0 you will be able to change the color of the page bu clicking
 
 ## Screenshots
 
-<img src="images/Screen Shot 2021-04-13 at 11.32.09 am.png"
-     alt="resume"
-     style="float: left; margin-right: 10px;" />
+<img src="images/Screen Shot 2021-04-19 at 12.06.11 pm.png">
+
 <p>&nbsp;</p>
-<img src="images/Screen Shot 2021-04-13 at 11.32.44 am.png"
-     alt="resume"
-     style="float: left; margin-right: 10px;" />
+<img src="images/Screen Shot 2021-04-13 at 11.32.44 am.png">
+     
 <p>&nbsp;</p>
-<img src="images/Screen Shot 2021-04-13 at 2.23.07 pm.png"
-     alt="resume"
-     style="float: left; margin-right: 10px;" />
+<img src="images/Screen Shot 2021-04-13 at 2.23.07 pm.png">
+     
 <p>&nbsp;</p>
  
  ## Sitemap
