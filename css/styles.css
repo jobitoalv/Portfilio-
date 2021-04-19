@@ -236,6 +236,15 @@ h6 { font-size: 10px;}
     padding-top: 60px;
 }
 
+.social-link a {
+    transition: 0.5s;
+}
+
+.social-link a:hover{
+    font-size: 30px;
+    text-decoration-line: underline;
+}
+
 .post-wrapper{
     display: grid;
     grid-template-columns: repeat(auto-fit, 400px) ;
