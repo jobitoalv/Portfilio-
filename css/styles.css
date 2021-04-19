@@ -202,15 +202,20 @@ h6 { font-size: 10px;}
     
 }
 
-#resume  {
+.resume  {
     display: inline;
     margin: 0;
     padding: 0;
 }
-
-.resume .a:hover{
-    
+.resume a {
+    transition: 0.5s;
 }
+.resume a:hover{
+    font-size: 30px;
+    text-decoration-line: underline;
+}
+
+
 
 .line1, .line2, .line3 {
     margin: 5px;
