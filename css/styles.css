@@ -58,6 +58,10 @@ h4 { font-size: 24px;}
 h5 { font-size: 20px;}
 h6 { font-size: 10px;}
 
+.blogs-title {
+    background-color: #fff;
+}
+
 .s1{
     background-color: var(--mainColor);
     border-bottom: 2px solid var(--borderColor);
@@ -108,6 +112,9 @@ h6 { font-size: 10px;}
     background-color:rgba(167, 142, 191, 0.502);
 }
 
+#navigation .active {
+    background-color: rgb(146, 176, 143);
+}
 
 .left-column {
     grid-area: left-column;
@@ -185,11 +192,25 @@ h6 { font-size: 10px;}
 
 #skills{
     display: flex;
-    justify-content: space-between;
+    flex-direction: column;
+    justify-content:flex-start;
+    float: left;
     background-color: #eedbf4;
-    font-size: 16px;
-    text-align: center;
+    font-size: 30px;
+    text-align: center;   
+    text-transform: lowercase;
     
+}
+
+.line1, .line2, .line3 {
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 5px;
+}
+.fab, .fas {
+    padding: 10px;
 }
 
 .social-link{
@@ -218,6 +239,11 @@ h6 { font-size: 10px;}
 
 }
 
+.blogs-date{
+    font-size: 15px;
+    background-color: #fff;
+}
+
 .thumbnail{
     display: block;
     width: 100%;
@@ -244,7 +270,7 @@ h6 { font-size: 10px;}
 
 .blogs-image{
     display: block;
-    width: 500px;
+    width: 498px;
     height:  500px;
     object-fit: cover;
 }
@@ -254,6 +280,7 @@ h6 { font-size: 10px;}
 }
 
 .blogs{
+    background-color: #FFF;
     border: 1px solid var(--borderColor);
     -webkit-box-shadow: -2px 7px 21px -9px raba(0,0,0,0.75);
     -moz-box-shadow: -2px 7px 21px -9px raba(0,0,0,0.75);
@@ -270,8 +297,13 @@ h6 { font-size: 10px;}
 }
 
 .blogs-title{
+    display: flex;
+    align-items: center;
+    justify-content: center;
     color: Black;
     margin: 0px;
+    padding: 10px;
+    
     
 }
 
@@ -324,8 +356,8 @@ h6 { font-size: 10px;}
     background-color:rgb(199, 170, 233);
     border:double;
 } 
+/*mobile view*/
 
-ß
 @media screen and (max-width: 1200px) {
      .main-container{
          width: 95%;
