@@ -116,6 +116,15 @@ h6 { font-size: 10px;}
     background-color: rgb(146, 176, 143);
 }
 
+#navigation a{
+    transition: 0.5s;
+}
+
+#navigation a:hover{
+    font-size: 30px;
+    text-decoration-line: underline;
+}
+
 .left-column {
     grid-area: left-column;
     padding-top: 50px;
