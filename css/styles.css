@@ -202,6 +202,16 @@ h6 { font-size: 10px;}
     
 }
 
+#resume  {
+    display: inline;
+    margin: 0;
+    padding: 0;
+}
+
+.resume .a:hover{
+    
+}
+
 .line1, .line2, .line3 {
     margin: 5px;
     display: flex;
