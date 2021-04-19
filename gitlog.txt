@@ -1,3 +1,15 @@
+commit c12ff690ac456de4e8f44470d28e401f8a5d237a
+Author: jobitoalv <74395645+jobitoalv@users.noreply.github.com>
+Date:   Mon Apr 19 16:53:50 2021 +1000
+
+    changed font size
+
+commit 4f3becd4aa6e7476f55acc4550751453adc931ed
+Author: jobitoalv <74395645+jobitoalv@users.noreply.github.com>
+Date:   Mon Apr 19 16:42:59 2021 +1000
+
+    change font size
+
 commit 0d4b670054caf0aac941af2fd5467cdaf9cd68ff
 Author: jobitoalv <74395645+jobitoalv@users.noreply.github.com>
 Date:   Mon Apr 19 16:40:02 2021 +1000
