@@ -5,7 +5,7 @@
 
 [Github](https://github.com/jobitoalv/Portfilio-.git)
 
-[Public URL](https://affectionate-bell-499582.netlify.app/index.html)
+[Public URL](job-alvarez.netlify.app)
 
 ## Description
 easy to navigate being able to check my past project and learn more about me . easy to connect to my soical media.
